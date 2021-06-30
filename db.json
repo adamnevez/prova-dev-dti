@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Adam",
+      "city": "Brasil"
+    },
+    {
+      "id": 2,
+      "name": "Fabio",
+      "city": "Canada"
+    }
+  ]
+}
